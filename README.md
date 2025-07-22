@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** para calcul
 
 
 
-## 🚀 ✨ Funcionalidades
+## ✨ Funcionalidades
 
 - ✅ Entrada de **peso (kg)** e **altura (m)**  
 - ✅ Validação de dados preenchidos  
