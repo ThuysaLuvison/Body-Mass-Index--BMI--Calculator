@@ -1,6 +1,6 @@
 # 💪 Calculadora de Índice de Massa Corporal (IMC)
 
-Bem-vindo a **Calculadora de Índice de Massa Corporal (IMC)**!
+Bem-vindo(a) a **Calculadora de Índice de Massa Corporal (IMC)**!
 
 Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** para calcular o Índice de Massa Corporal (IMC) de maneira rápida, visual e intuitiva.
 
